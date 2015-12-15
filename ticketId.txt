@@ -1,0 +1,8 @@
+Your Ticket | Ticket Holder: Magnus MOVIE: Hangover ROW: 2 SEAT: 1 TICKET ID: 59
+Your Ticket | Ticket Holder: Tom MOVIE: Hangover ROW: 1 SEAT: 4 TICKET ID: 85
+Your Ticket | Ticket Holder: Magnus MOVIE: Hangover ROW: 3 SEAT: 1 TICKET ID: 23
+Your Ticket | Ticket Holder: Magnus MOVIE: Moneyball ROW: 1 SEAT: 2 TICKET ID: 63
+Your Ticket | Ticket Holder: Magnus MOVIE: Moneyball ROW: 1 SEAT: 3 TICKET ID: 84
+Your Ticket | Ticket Holder: Magnus MOVIE: Hangover ROW: 1 SEAT: 5 TICKET ID: 43
+Your Ticket | Ticket Holder: Magnus MOVIE: Hangover ROW: 2 SEAT: 4 TICKET ID: 7
+Your Ticket | Ticket Holder: Magnus MOVIE: Hangover ROW: 1 SEAT: 1 TICKET ID: 14
